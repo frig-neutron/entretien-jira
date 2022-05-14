@@ -37,3 +37,6 @@ Applying terraform plans can be done in one of two ways:
 ..or in one shot:
 
     TF_WORKSPACE=stg terraform plan apply
+
+## Jira
+ - `account ID` is last component of URL in the `Admin / site / Users` user info page
