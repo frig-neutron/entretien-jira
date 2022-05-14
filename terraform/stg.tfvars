@@ -1,4 +1,4 @@
 project_triage_settings = {
-  permission_scheme   = null
+  permission_scheme   = 1001
   notification_scheme = null
 }
