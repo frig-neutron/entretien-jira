@@ -6,3 +6,7 @@ terraform {
     }
   }
 }
+
+provider "jira" {
+  url = "https://lalliance.atlassian.net/"
+}
